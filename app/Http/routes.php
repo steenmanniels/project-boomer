@@ -31,6 +31,7 @@ Route::group(['middleware' => 'auth'], function() {
 
         /**
          * Projectboomer/public/dashboard Routes
+         * Test
          */
 
         Route::get(     '/', 'Dashboard\DashboardController@index');
