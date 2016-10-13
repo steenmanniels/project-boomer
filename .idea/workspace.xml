@@ -71,7 +71,7 @@
         <entry file="file://$PROJECT_DIR$/gulpfile.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -488,7 +488,7 @@
       <workItem from="1475417310675" duration="118000" />
       <workItem from="1476092292455" duration="641000" />
       <workItem from="1476219937782" duration="150000" />
-      <workItem from="1476356798580" duration="824000" />
+      <workItem from="1476356798580" duration="924000" />
     </task>
     <task id="LOCAL-00001" summary="Test">
       <created>1475091057419</created>
@@ -532,11 +532,18 @@
       <option name="project" value="LOCAL" />
       <updated>1476357826470</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Gulpfile.js update test for SSH 3">
+      <created>1476357957996</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1476357957996</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="241005000" />
+    <option name="totallyTimeSpent" value="241105000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -576,7 +583,8 @@
     <MESSAGE value="Test" />
     <MESSAGE value="Last test commit" />
     <MESSAGE value="Gulpfile.js update test for SSH" />
-    <option name="LAST_COMMIT_MESSAGE" value="Gulpfile.js update test for SSH" />
+    <MESSAGE value="Gulpfile.js update test for SSH 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Gulpfile.js update test for SSH 3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -948,7 +956,7 @@
     <entry file="file://$PROJECT_DIR$/gulpfile.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
           <folding />
         </state>
       </provider>
